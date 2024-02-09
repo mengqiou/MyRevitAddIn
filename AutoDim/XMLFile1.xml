@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>C:\my projects\AutoDim\AutoDim\bin\Debug\AutoDim.dll</Assembly>
+    <Name>AutoDim</Name>
+    <FullClassName>AutoDim.PanelButtons</FullClassName>
+    <ClientId>1b6b94c1-3989-48d7-a455-9fbddaacd5ac</ClientId>
+    <VendorId>ADSR</VendorId>
+  </AddIn>
+</RevitAddIns>
